@@ -1,0 +1,33 @@
+
+body{
+	background-color: #666;
+	width:50%;
+	margin: 0 auto;
+	padding-top: 10%;
+	color:white;
+	text-align: center;	
+	font-family: sans-serif;
+
+}
+
+input[type=text]{
+	width: 85%;
+	height: 40px;
+	font-size: 25px;
+}
+
+input[type=submit]{
+	height: 4em;
+	background-color: white;
+	float:right;
+
+}
+
+.error{
+	color: #FFAAAA	;
+	font-style: italic;
+}
+
+a{
+	color: #AAA;
+}
